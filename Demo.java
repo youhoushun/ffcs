@@ -1,5 +1,5 @@
-public class Hello{
+public class Demo{
 	public static void main(String args[]){
-		system.out.print("wwww.yhs.com");
+		system.out.print("Current Date = "+ new java.util.Date());
 	}
 }
