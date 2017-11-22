@@ -4,7 +4,7 @@ public class Hello{
 		System.out.print("www.mldn.com");
 		System.out.print("www.baidu.com");
 		System.out.print("Hello World");
-		System.out.print("Hello youhoushun");
+		System.out.print("Happy");
 	}
 
 }
